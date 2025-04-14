@@ -1,16 +1,43 @@
-## Hi there 👋
+# 👋 Hi there, I'm Sanjana Aswathaiah!
 
-<!--
-**sanjanaashwath/sanjanaashwath** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Junior Data Scientist | 💡 AI Enthusiast | 📊 Data Explorer
 
-Here are some ideas to get you started:
+Welcome to my GitHub! I'm passionate about building data-driven solutions, uncovering insights through analysis, and applying machine learning to solve real-world problems. I enjoy combining creativity with logic — from cleaning messy datasets to deploying ML-powered apps.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 About Me
+
+- 🔍 Seeking opportunities in **Data Science**, **Data Analytics**, and **AI Research**
+- 🧠 Master's in Informatics – Big Data & AI (SRH Hochschule Berlin)
+- 🛠️ Skills: `Python`, `Pandas`, `scikit-learn`, `TensorFlow`, `SQL`, `Docker`, `AWS`
+- 💼 Industry Experience: Internship & Master’s Thesis at **Porsche Engineering**
+- 🌍 Currently based in Germany 🇩🇪
+
+---
+
+## 📌 Featured Projects
+
+
+
+---
+
+## 🧰 Tools & Technologies
+
+`Python` `Pandas` `NumPy` `scikit-learn` `TensorFlow` `Keras`  
+`SQL` `Docker` `Streamlit` `Jupyter` `Git` `Matplotlib` `Seaborn`  
+`AWS` `Google Cloud` `VS Code`
+
+---
+
+## 📫 Let's Connect
+
+- 📧 Email: sanjanaashwath389@gmail.com  
+- 💼 LinkedIn: [linkedin.com/in/sanjanaashwath](https://www.linkedin.com/in/sanjana-aswathaiah/)  
+- 🌐 Portfolio: [sanjana.dev]
+
+---
+
+> “Data is a precious thing and will last longer than the systems themselves.” — Tim Berners-Lee
+
+
