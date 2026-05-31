@@ -34,7 +34,7 @@ Welcome to my GitHub! I'm passionate about building data-driven solutions, uncov
 
 - 📧 Email: sanjanaashwath389@gmail.com  
 - 💼 LinkedIn: [linkedin.com/in/sanjanaashwath](https://www.linkedin.com/in/sanjana-aswathaiah/)  
-- 🌐 Portfolio: [sanjana.dev]
+
 
 ---
 
